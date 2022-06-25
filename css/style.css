@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&display=swap');
+
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    margin: 0;
+}
+
+header img{
+    width: 146px;
+    height: 24;
+}
+
